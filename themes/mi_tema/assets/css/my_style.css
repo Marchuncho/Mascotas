@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Amatic+SC:700|Josefin+Sans:300");
+body {
+  background-color: #fffaef;
+  background-image: url('../images/bg.png');
+  color: #4c4c4c;
+  background-attachment: fixed;
+}
+
+h1, h2, h3 {
+  font-family: 'Amatic SC', cursive;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.75);
+}
